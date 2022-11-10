@@ -1,0 +1,91 @@
+.formbody{
+    border: 1px solid rgb(24, 229, 48);
+    width: 120vh;
+    height: 95vh;
+    margin-left: 60.5vh;
+    margin-top: 3vh;
+    background-color:rgb(24, 229, 48);
+    padding:7px;
+    border-radius: 110px;
+    font-size: x-large;
+}
+.outer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+    /* background-color: lightcoral; */
+}
+.heading{
+    text-align: center;
+    margin-left: 20px;
+    font-weight: 700;
+    font-style:initial;
+    color:black;
+    font-size:x-large;
+}
+.b1,.b2, .b3, .b4, .b5{
+    align-items: center;
+    font-size:x-large;
+    align-items: center;
+    margin-left: 10vh;
+    margin-top: 2vh;
+    font-weight: 800;
+    color:black
+}
+.ib1{
+    margin-left:30vh;
+    border :3px solid black;
+    width: 40vh;
+    height: 6vh;
+    background-color: aliceblue;
+    color: rgb(152, 152, 220);
+    font-size: large;
+}
+.ib2{
+    margin-left:30vh;
+    border :3px solid black;
+    width: 40vh;
+    height: 6vh;
+    background-color: aliceblue;
+    color:rgb(152, 152, 220);
+    font-size: large;
+}
+.ib3{
+    margin-left:23.5vh;
+    border :3px solid black;
+    width: 40vh;
+    height: 6vh;
+    background-color: aliceblue;
+    color:rgb(152, 152, 220);
+    font-size: large;
+}
+.ib4{
+    margin-left:13vh;
+    border :3px solid black;
+    width: 40vh;
+    height: 6vh;
+    background-color: aliceblue;
+    color:rgb(152, 152, 220);
+    font-size: large;
+}
+.ib5{
+    margin-left:22.5vh;
+    border :3px solid black;
+    width: 40vh;
+    height: 6vh;
+    background-color: aliceblue;
+    color:rgb(152, 152, 220);
+    font-size: large;
+}
+.button{
+    margin-left: 43%;
+    margin-top: 15px;
+    color: black;
+    background-color: red;
+    border:2px solid black;
+    border-radius: 6px;
+    height: 6vh;
+    width: 15vh;
+}

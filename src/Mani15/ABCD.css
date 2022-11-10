@@ -1,0 +1,14 @@
+.button1{
+    background-color: red;
+    margin-left: 40vh;
+    margin-top: 6vh;
+    height: 6vh;
+    width: 22vh;
+    font-weight: 400;
+}
+.button2{
+    background-color: yellow;
+    margin-left: 40vh;
+    height: 6vh;
+    width: 22vh;
+}
